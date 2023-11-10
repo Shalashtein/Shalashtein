@@ -4,7 +4,7 @@ Hi 👋 My name is Abe
 Tech Lead
 ---------
 
-My first "production crash" was when I was 14, I'd just started working part time with PC maintenance and broadband installation. I was asked to change the power supply, but instead of unscrewing the power supply's screws, I unscrewed the power supply's fan's screws.
+My first "production crash" was when I was 14, I'd just started working part time with PC maintenance and broadband installation. I was asked to change the power supply, but instead of unscrewing the power supply's screws, I unscrewed the power supply's internal fan's screws.
 
 * 🌍  I'm based in the Netherlands
 * ✉️  You can contact me at [shalashtein@gmail.com](mailto:shalashtein@gmail.com)
