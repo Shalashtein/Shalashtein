@@ -8,7 +8,6 @@ My first "production crash" was when I was 14, I'd just started working part tim
 
 * 🌍  I'm based in the Netherlands
 * ✉️  You can contact me at [shalashtein@gmail.com](mailto:shalashtein@gmail.com)
-* 🚀  I'm currently working on [HYBR](http://hybr.co.uk)
 
 ### Skills
 
