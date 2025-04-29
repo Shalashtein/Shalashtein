@@ -7,6 +7,7 @@ Tech Lead
 My first "production crash" was when I was 14, I'd just started working part time with PC maintenance and broadband installation. I was asked to change the power supply, but instead of unscrewing the power supply's screws, I unscrewed the power supply's internal fan's screws. It led me to realize, that until that point the power supply had always been a black box to me, I never questioned it, and that led me to think about what else I hadn't questioned.
 
 * 🌍  I'm based in the Netherlands
+* Currently working on [Cyber Anarchy](cyber-anarchy.com)
 * ✉️  You can contact me at [shalashtein@gmail.com](mailto:shalashtein@gmail.com)
 
 ### Skills
